@@ -1,0 +1,7 @@
+gradlew setupDecompWorkspace eclipse
+
+
+
+compila la mod:
+- ricordarsi di aggiornare la versione della mod sia nel file "util.Reference" e sia nel file "build.gradle"
+- eseguire il comando "gradlew.bat build"
